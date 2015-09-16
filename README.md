@@ -1,6 +1,8 @@
 # bgm_selficam_stabilizer
 control system for selficam(phone with monopod) stabilizer
 
+http://drpdrpdrp.blogspot.kr/2015/09/blog-post.html
+
 2015 시스템 프로그램 설계 최종 과제
 
 셀카봉에 서보모터 2개를 달아 카메라(폰)이 바라보는 방향을 조절하도록 제어. 각 모터는 pitch, yaw를 담당.
