@@ -9,7 +9,7 @@ control system for selficam(phone with monopod) stabilizer
 이 제어시스템은 uCOS-III를 기반으로 제작되었고 STM32F107 보드에서 동작한다.
 - 원래 버튼 입력을 통한 원점 조절 기능이 있었으나 코드 분실
 
-The selficam stabilizer I made is constructed with a monopod, two servo mortor and a 3 axis accelerometer.
+The selficam stabilizer I made is constructed with a monopod, two servo motor and a 3 axis accelerometer.
 Servo motors control a cam's directon. One for pitch, the other for yaw.
 The accelerometer sense cam's slanting degree.
 This system monitors accelerometer's value.
